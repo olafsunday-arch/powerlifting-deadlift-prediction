@@ -10,9 +10,17 @@ The goal of the project is to predict the athlete's best deadlift result using s
 
 ## Dataset
 
-The project uses data from the OpenPowerlifting dataset and an additional countries and continents dataset.
+The project uses two datasets:
+
+1. **OpenPowerlifting dataset** – competition results and athlete performance data.
+2. **Countries and continents dataset** – additional country-to-continent mapping used for geographical analysis.
 
 The raw datasets are not stored in this repository because of their size. Instructions for downloading and placing the data are available in the `data/` folder.
+
+Data sources:
+
+- OpenPowerlifting dataset: https://www.openpowerlifting.org/
+- Countries by Continent dataset: https://www.kaggle.com/datasets/hserdaraltan/countries-by-continent
 
 Expected local data structure:
 
@@ -21,7 +29,6 @@ data/
 ├── openpowerlifting-2024-01-06-4c732975.csv
 └── countries and continents.csv
 ```
-
 
 
 ## Main Notebook
