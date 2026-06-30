@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
