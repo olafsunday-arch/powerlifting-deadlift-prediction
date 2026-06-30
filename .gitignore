@@ -221,7 +221,6 @@ __marimo__/
 .ipynb_checkpoints/
 
 # Data files
-data/raw/
 *.csv
 
 # System files
