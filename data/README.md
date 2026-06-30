@@ -8,8 +8,7 @@ To run the notebook, download the required CSV files and place them in the `data
 
 1. **OpenPowerlifting dataset**
 
-   Source: https://www.openpowerlifting.org/  
-   CSV documentation: https://openpowerlifting.gitlab.io/opl-csv/bulk-csv-docs.html
+   Source: https://www.kaggle.com/datasets/open-powerlifting/powerlifting-database?select=openpowerlifting-2024-01-06-4c732975.csv
 
    Expected filename:
 
