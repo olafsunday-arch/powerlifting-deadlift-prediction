@@ -20,6 +20,7 @@ The raw datasets are not stored in this repository because of their size. Instru
 Data sources:
 
 - OpenPowerlifting dataset: https://www.openpowerlifting.org/
+- OpenPowerlifting CSV documentation: https://openpowerlifting.gitlab.io/opl-csv/bulk-csv-docs.htm
 - Countries by Continent dataset: https://www.kaggle.com/datasets/hserdaraltan/countries-by-continent
 
 Expected local data structure:
