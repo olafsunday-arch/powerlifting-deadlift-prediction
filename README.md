@@ -21,3 +21,11 @@ data/
 ├── openpowerlifting-2024-01-06-4c732975.csv
 └── countries and continents.csv
 ```
+
+
+
+## Main Notebook
+
+The full analysis is available here:
+
+[Open the Jupyter Notebook](notebooks/powerlifting_deadlift_prediction.ipynb)
