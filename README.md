@@ -18,6 +18,6 @@ Expected local data structure:
 
 ```text
 data/
-└── raw/
-    ├── openpowerlifting-2024-01-06-4c732975.csv
-    └── countries and continents.csv
+├── openpowerlifting-2024-01-06-4c732975.csv
+└── countries and continents.csv
+```
